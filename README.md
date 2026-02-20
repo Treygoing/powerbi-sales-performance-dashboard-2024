@@ -85,5 +85,11 @@ This dashboard helps decision-makers:
 - Time-series analysis  
 - KPI development  
 - Dashboard UX design  
-- Business-focused data storytelling  
+- Business-focused data storytelling
+
+ ---
+ ## Files Included
+
+- [Power BI File (.pbix)](Sales_Performance_Dashboard.pbix)
+- [Project Documentation (PDF)](Project_Documentation.pdf)
 
