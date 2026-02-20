@@ -87,9 +87,5 @@ This dashboard helps decision-makers:
 - Dashboard UX design  
 - Business-focused data storytelling
 
- ---
- ## Files Included
 
-- [Power BI File (.pbix)](Sales_Performance_Dashboard.pbix)
-- [Project Documentation (PDF)](Project_Documentation.pdf)
 
